@@ -10,6 +10,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .target(name: "MSAL", path: "MSAL")
+        .target(name: "MSAL", path: "MSAL/src")
     ]
 )
